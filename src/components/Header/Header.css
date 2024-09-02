@@ -1,0 +1,22 @@
+header{
+    background-color: #6e8894;
+    margin: auto -16px;
+    padding: 16px 32px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    text-align: center;
+    color: #ceeddb;
+}
+
+
+nav{
+    background-color: #6e8894;
+    
+}
+
+.nav-link, .navbar-brand{
+    color: #ceeddb;
+}
+
+.navbar-brand{
+    font-size: 40px;
+}

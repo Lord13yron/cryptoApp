@@ -1,0 +1,39 @@
+
+
+.main-wrapper{
+    /* display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 3rem; */
+    color: #ceeddb;
+}
+
+/* .table-wrapper{ */
+    /* flex-direction: column;
+    float: left;
+    height: 100vh;
+    width: 45%;
+    color: #ceeddb;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    overflow-y: scroll; */
+    /* background-color: #67597a; */
+
+/* }  */
+
+
+
+ .table-item{
+    background-color: #85baa1;
+    color: #544e61;
+    /* margin-left: 10px;
+    padding: 10px;
+    list-style-type: none;
+    color: #544e61;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    overflow: hidden; */
+}
+
+thead{
+    background-color: #67597a;
+    color: #ceeddb;
+}
